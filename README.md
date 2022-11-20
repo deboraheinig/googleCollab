@@ -6,9 +6,9 @@
   
   Na lógica Booleana, o zero representa falso, enquanto o um representa verdadeiro. Para trabalhar com esses valores e torná-los algo lógico, que possa ser aplicado, são necessárias as chamadas **portas lógicas**.
   <br>
-  ![image](https://user-images.githubusercontent.com/95155200/202917827-040e9a77-ad00-4523-b03a-20931425abfe.png)
+  ![image](https://user-images.githubusercontent.com/95155200/202918002-1618bcf8-3826-4f4d-88f3-cb266c7d5295.png)
   <br>
-*Porta lógica **NOT***
+*Figura 1. Representação de algumas portas lógicas*
 <br>
-A porta lógica NOT é também conhecida como inversor por, literalmente, inverte o bit de entrada. Se o bit de entrada for um, por exemplo, o bit de saída será zero, e vice-versa.
+
 
