@@ -1,6 +1,6 @@
 # Morfologia & Lógica Booleana
 <h3>Definição da Morfologia</h3>
- Morfologia é a forma e estrutura de um objeto ou os arranjos e inter-relacionamentos entre as partes de um objeto.
+
 <br>
   Os mais antigos usos desta palavra estão relacionados com linguagem e biologia. Em lingüística, morfologia é o estudo da estrutura das palavras. Em biologia, morfologia esta relacionada mais diretamente a forma de um organismo. A forma de uma folha pode ser usada para identificar uma planta ou a forma de uma colônia de bactérias pode ser usada para identificar sua variedade. Morfologia digital é um caminho para descrever ou analisar a forma de um objeto digital.
 A morfologia digital é uma ciência relativamente recente, pois só os computadores digitais permitiram seu uso na pratica. Por outro lado os matemáticos a consideram uso da teoria de conjuntos que é uma area bem estudada. A idéia de morfologia digital é que uma imagem consiste de um conjunto de "picture elements" (pixels) que são reunidos em grupos tendo uma estrutura bidimensional (forma).
@@ -25,5 +25,5 @@ As operações básicas da morfologia digital são a erosão, em que pixels que 
 <br>
 *Figura 2. Diagramas de Venn (a) União de dois conjuntos. (b) Intersecção de dois conjuntos. (c)Complemento de um conjunto.*
 
-Logo, por suma, compreende-se que a Morfologia Matemática binária é formulada, e somente é possível de existir, devido à álgebra booleana que possuímos hoje em dia.
+Logo, por suma, compreende-se que a Morfologia é a forma e estrutura de um objeto ou os arranjos e inter-relacionamentos entre as partes de um objeto. E, que a Morfologia Matemática binária é formulada, e somente é possível de se existir, devido à álgebra booleana que possuímos hoje em dia.
 
