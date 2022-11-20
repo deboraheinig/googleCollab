@@ -9,6 +9,7 @@
   <br>
   ![image](https://user-images.githubusercontent.com/95155200/202917827-040e9a77-ad00-4523-b03a-20931425abfe.png)
   <br>
-*Porta lógica NOT*
+*Porta lógica **NOT***
+<br>
 A porta lógica NOT é também conhecida como inversor por, literalmente, inverte o bit de entrada. Se o bit de entrada for um, por exemplo, o bit de saída será zero, e vice-versa.
 
