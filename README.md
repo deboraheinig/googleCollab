@@ -24,5 +24,5 @@ As operações básicas da morfologia digital são a erosão, em que pixels que 
 <br>
 *Figura 2. Diagramas de Venn (a) União de dois conjuntos. (b) Intersecção de dois conjuntos. (c)Complemento de um conjunto.*
 
-Através dos exemplos citados acimas, torna-se possível a aplicabilidade da lógica booleana. Logo, por suma, compreende-se que a Morfologia é a forma e estrutura de um objeto ou os arranjos e inter-relacionamentos entre as partes de um objeto. E, que a Morfologia Matemática binária é formulada, e somente é possível de se existir, devido à álgebra booleana que possuímos hoje em dia.
+Através dos exemplos citados acima, torna-se possível a aplicabilidade da lógica booleana. Logo, por suma, compreende-se que a Morfologia é a forma e estrutura de um objeto ou os arranjos e inter-relacionamentos entre as partes de um objeto. E, que a Morfologia Matemática binária é formulada, e somente é possível de se existir, devido à álgebra booleana que possuímos hoje em dia.
 
