@@ -11,8 +11,7 @@
   <br>
 *Figura 1. Representação de algumas portas lógicas*
 
-<h3>Álgebra dos conjuntos </h3>
-aaaaaaaaaaaa
+Álgebra dos conjuntos
 <br>
 ![image](https://user-images.githubusercontent.com/95155200/202918075-75ba35e1-eba8-4aa8-b273-a2eae1e991eb.png)
 <br>
