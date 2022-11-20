@@ -1,7 +1,6 @@
 # Morfologia & Lógica Booleana
 <h3>Definição da Morfologia</h3>
 
-<br>
   Os mais antigos usos desta palavra estão relacionados com linguagem e biologia. Em lingüística, morfologia é o estudo da estrutura das palavras. Em biologia, morfologia esta relacionada mais diretamente a forma de um organismo. A forma de uma folha pode ser usada para identificar uma planta ou a forma de uma colônia de bactérias pode ser usada para identificar sua variedade. Morfologia digital é um caminho para descrever ou analisar a forma de um objeto digital.
   <br>
 A morfologia digital é uma ciência relativamente recente, pois só os computadores digitais permitiram seu uso na pratica. Por outro lado os matemáticos a consideram uso da teoria de conjuntos que é uma area bem estudada. A idéia de morfologia digital é que uma imagem consiste de um conjunto de "picture elements" (pixels) que são reunidos em grupos tendo uma estrutura bidimensional (forma).
