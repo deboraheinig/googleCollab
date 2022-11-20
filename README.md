@@ -4,6 +4,7 @@
 
   Muito se ouve falar, que os computadores trabalham apenas com números. Essa proposição não está errada, mas também não está certa. Os humanos, utilizam o sistema decimal, que possui dez dígitos (0 ao 9). Já os computadores de uma forma geral, e qualquer outra máquina controlada por um processador, trabalham com sistema binário, composto apenas pelos números um e zero. E foram estes dois números que deram origem à lógica booleana. O sistema de numeração binária é composto apenas por uns e zeros. Os computadores, na verdade, trabalham apenas com esse sistema de numeração.
 <h3>Portas lógicas</h3>
+<br>
   Na lógica Booleana, o zero representa falso, enquanto o um representa verdadeiro. Para trabalhar com esses valores e torná-los algo lógico, que possa ser aplicado, são necessárias as chamadas **portas lógicas**.
   <br>
   ![image](https://user-images.githubusercontent.com/95155200/202917827-040e9a77-ad00-4523-b03a-20931425abfe.png)
