@@ -17,3 +17,5 @@
 <br>
 *Figura 2. Diagramas de Venn (a) União de dois conjuntos. (b) Intersecção de dois conjuntos. (c)Complemento de um conjunto.*
 
+Logo, por suma, compreende-se que a Morfologia Matemática binária é formulada, e somente é possível de existir, devido à álgebra booleana que possuímos hoje em dia.
+
