@@ -13,6 +13,7 @@
 <br>
 
   <h3>Álgebra dos conjuntos </h3>
+  <br>
 ![image](https://user-images.githubusercontent.com/95155200/202918075-75ba35e1-eba8-4aa8-b273-a2eae1e991eb.png)
 <br>
 *Figura 2. Diagramas de Venn (a) Uni˜ao de dois conjuntos. (b) Interse¸c˜ao de dois conjuntos. (c)Complemento de um conjunto.
